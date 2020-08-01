@@ -43,7 +43,7 @@ Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```
 |[Linux-arm64](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/EbCdTx4DZmBNiE3ZV8TA6BcB9yfbZLtzZuX4C3XpHpwjcg?e=mOMPW0)|64位arm派用品|
 |[Linux-arm](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/EaM2E_LbUeJNkGZHSJ5OoCMBQgHUWlHT7Y2xTcfpV-U7Eg?e=KY6zDv)|arm派用品|
 |[Darwin-amd64](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/ETB8UOp6CKxNqIk497RJqO4BYcF5_t1rr5UABiFWgnhTTQ?e=gGfa4j)|MacOS用品 已测试，感谢fjh1997大佬|
-
+|[Windows-386懒人包](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/EYPeLBfk2HtErongH2ZPULUBULa33IYcTdQeJzLYKdjYtg?e=3KFFEf)|有可能源文件下载路径已经失效，在此上传已部署完毕的包，原则上应当解压即可使用|
 
 ### Tips
 创建`.DEBUG`文件来开启DEBUG输出 ~~(虽然没什么东西)~~  
