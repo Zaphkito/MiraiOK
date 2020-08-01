@@ -37,12 +37,12 @@ Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```
 #### 下载地址
 |系统|备注|
 |-------------|---|
-|[Windows-386](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_windows_386.exe)|mirai-native用|
-|[Windows-amd64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_windows_amd64.exe)|不用native的话|
-|[Linux-amd64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_linux_amd64)|服务器用品|
-|[Linux-arm64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_linux_arm64)|64位arm派用品|
-|[Linux-arm](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_linux_arm)|arm派用品|
-|[Darwin-amd64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_darwin_amd64)|MacOS用品 已测试，感谢fjh1997大佬|
+|[Windows-386](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/ER-9kAr66KNLrdytbuojv88BeO1jrLqh0AHyR4z4UV7CYw?e=LsnOUz)|mirai-native用|
+|[Windows-amd64](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/Eca6n5aC0bpPtfpS151VXBEBFn2IJEFadCZ7XrQis1qfKw?e=ptyN9q)|不用native的话|
+|[Linux-amd64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_linux_amd64)|服务器用品 文件已丢失|
+|[Linux-arm64](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/EbCdTx4DZmBNiE3ZV8TA6BcB9yfbZLtzZuX4C3XpHpwjcg?e=mOMPW0)|64位arm派用品|
+|[Linux-arm](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/EaM2E_LbUeJNkGZHSJ5OoCMBQgHUWlHT7Y2xTcfpV-U7Eg?e=KY6zDv)|arm派用品|
+|[Darwin-amd64](https://zwdnmd-my.sharepoint.com/:u:/g/personal/zaphkito_zwdnmd_onmicrosoft_com/ETB8UOp6CKxNqIk497RJqO4BYcF5_t1rr5UABiFWgnhTTQ?e=gGfa4j)|MacOS用品 已测试，感谢fjh1997大佬|
 
 
 ### Tips
